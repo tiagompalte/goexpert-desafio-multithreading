@@ -6,4 +6,4 @@
 
 ## Example
 
-`go run main.go 01001000`
+`go run main.go 01310-000`
